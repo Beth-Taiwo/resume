@@ -1,0 +1,11 @@
+.bannerImg {
+  width: 100vw;
+  height: 30vh;
+}
+.card {
+  border: 0;
+}
+.card-img-top {
+  width: 60px;
+  height: 60px;
+}
